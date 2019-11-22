@@ -22,3 +22,4 @@ The thread we are working on is "Using mass media and social media data to expla
   - Rake, Tf-Idf
   - Doc-2-Vec
   - Doc-tag-2-Vec
+- <b>Clustering of articles : </b> Used clustering technique like LDA to cluster and further filter the articles.
