@@ -18,7 +18,7 @@ The thread we are working on is "Using mass media and social media data to expla
 - <b>Articles Collection : </b>Based on the industrial sectors (according to the 6th economic census), Mass Media articles have been collected for each district from 7 news paper sources.
 - <b>Location Resolution : </b>Used the census data for all the states and districts, to help resolve the articles to their respective locations.
 - <b>Sentiment Analysis : </b>Used Senti-strength tool for performing the sentiment analysis of the articles.
-- <b>Keywords extraction : Trying to extract the explanatory keywords which help us distinguish, how a district is different from another district. This has been done using :</b>
+- <b>Keywords extraction : </b>Trying to extract the explanatory keywords which help us distinguish, how a district is different from another district. This has been done using :
   - Rake, Tf-Idf
   - Doc-2-Vec
   - Doc-tag-2-Vec
