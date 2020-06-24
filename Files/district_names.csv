@@ -1,0 +1,594 @@
+﻿District,NAME,EMP_2011
+1,Kupwara,Unemployment
+2,Badgam,Unemployment
+3,Leh (Ladakh),Non Agri
+4,Kargil,Non Agri
+5,Punch,Unemployment
+6,Rajauri,Unemployment
+7,Kathua,Unemployment
+8,Baramula,Unemployment
+10,Srinagar,Non Agri
+12,Pulwama,Unemployment
+14,Anantnag,Unemployment
+16,Doda,Unemployment
+19,Udhampur,Unemployment
+21,Jammu,Non Agri
+23,Chamba,Agricultural
+24,Kangra,Non Agri
+25,Lahul & Spiti,Agricultural
+26,Kullu,Agricultural
+27,Mandi,Agricultural
+28,Hamirpur,Agricultural
+29,Una,Non Agri
+30,Bilaspur,Agricultural
+31,Solan,Agricultural
+32,Sirmaur,Agricultural
+33,Shimla,Agricultural
+34,Kinnaur,Agricultural
+35,Gurdaspur,Non Agri
+36,Kapurthala,Non Agri
+37,Jalandhar,Non Agri
+38,Hoshiarpur,Non Agri
+39,Nawanshahr ,Non Agri
+40,Fatehgarh Sahib,Non Agri
+41,Ludhiana,Non Agri
+42,Moga,Unemployment
+43,Firozpur,Unemployment
+44,Muktsar,Unemployment
+45,Faridkot,Unemployment
+46,Bathinda,Unemployment
+47,Mansa,Unemployment
+48,Patiala,Non Agri
+49,Amritsar,Non Agri
+51,Rupnagar,Non Agri
+53,Sangrur,Unemployment
+55,Chandigarh,Non Agri
+56,Uttarkashi,Agricultural
+57,Chamoli,Agricultural
+58,Rudraprayag,Agricultural
+59,Tehri Garhwal,Agricultural
+60,Dehradun,Non Agri
+61,Garhwal,Unemployment
+62,Pithoragarh,Agricultural
+63,Bageshwar,Agricultural
+64,Almora,Agricultural
+65,Champawat,Unemployment
+66,Nainital,Unemployment
+67,Udham Singh Nagar,Unemployment
+68,Hardwar,Non Agri
+69,Panchkula,Non Agri
+70,Ambala,Non Agri
+71,Yamunanagar,Non Agri
+72,Kurukshetra,Unemployment
+73,Kaithal,Unemployment
+74,Karnal,Unemployment
+75,Panipat,Non Agri
+76,Sonipat,Unemployment
+77,Jind,Unemployment
+78,Fatehabad,Unemployment
+79,Sirsa,Unemployment
+80,Hisar,Unemployment
+81,Bhiwani,Unemployment
+82,Rohtak,Non Agri
+83,Jhajjar,Unemployment
+84,Mahendragarh,Unemployment
+85,Rewari,Non Agri
+86,Gurgaon,Non Agri
+88,Faridabad,Non Agri
+90,North West ,Non Agri
+91,North,Non Agri
+92,North East,Non Agri
+93,East,Non Agri
+94,New Delhi,Non Agri
+95,Central,Non Agri
+96,West,Non Agri
+97,South West,Non Agri
+98,South,Non Agri
+99,Ganganagar,Agricultural
+100,Hanumangarh,Agricultural
+101,Bikaner,Agricultural
+102,Churu,Agricultural
+103,Jhunjhunun,Unemployment
+104,Alwar,Agricultural
+105,Bharatpur,Agricultural
+106,Dhaulpur,Agricultural
+107,Karauli,Agricultural
+108,Sawai Madhopur,Agricultural
+109,Dausa,Agricultural
+110,Jaipur,Non Agri
+111,Sikar,Unemployment
+112,Nagaur,Agricultural
+113,Jodhpur,Unemployment
+114,Jaisalmer,Agricultural
+115,Barmer,Agricultural
+116,Jalor,Agricultural
+117,Sirohi,Unemployment
+118,Pali,Unemployment
+119,Ajmer,Non Agri
+120,Tonk,Agricultural
+121,Bundi,Agricultural
+122,Bhilwara,Agricultural
+123,Rajsamand,Agricultural
+124,Dungarpur,Unemployment
+125,Banswara,Agricultural
+126,Chittaurgarh,Agricultural
+127,Kota,Non Agri
+128,Baran,Agricultural
+129,Jhalawar,Agricultural
+130,Udaipur,Unemployment
+132,Saharanpur,Unemployment
+133,Muzaffarnagar,Unemployment
+134,Bijnor,Unemployment
+135,Moradabad,Unemployment
+136,Rampur,Unemployment
+137,Jyotiba Phule Nagar,Unemployment
+138,Meerut,Non Agri
+139,Baghpat,Unemployment
+140,Ghaziabad,Non Agri
+141,Gautam Buddha Nagar,Non Agri
+142,Bulandshahar ,Unemployment
+143,Aligarh,Unemployment
+144,Hathras ,Unemployment
+145,Mathura,Unemployment
+146,Agra,Unemployment
+147,Firozabad,Unemployment
+148,Mainpuri,Unemployment
+149,Budaun,Unemployment
+150,Bareilly,Unemployment
+151,Pilibhit,Unemployment
+152,Shahjahanpur,Unemployment
+153,Kheri,Unemployment
+154,Sitapur,Unemployment
+155,Hardoi,Unemployment
+156,Unnao,Unemployment
+157,Lucknow,Non Agri
+158,Rae Bareli,Unemployment
+159,Farrukhabad,Unemployment
+160,Kannauj,Unemployment
+161,Etawah,Unemployment
+162,Auraiya,Unemployment
+163,Kanpur Dehat,Unemployment
+164,Kanpur Nagar,Non Agri
+165,Jalaun ,Unemployment
+166,Jhansi,Unemployment
+167,Lalitpur,Agricultural
+168,Hamirpur,Unemployment
+169,Mahoba,Unemployment
+170,Banda,Unemployment
+171,Chitrakoot,Agricultural
+172,Fatehpur,Unemployment
+173,Pratapgarh,Unemployment
+174,Kaushambi,Unemployment
+175,Allahabad ,Unemployment
+176,Barabanki,Unemployment
+177,Faizabad,Unemployment
+178,Ambedkar Nagar,Unemployment
+179,Sultanpur,Unemployment
+180,Bahraich,Unemployment
+181,Shrawasti,Unemployment
+182,Balrampur,Unemployment
+183,Gonda,Unemployment
+184,Siddharthnagar,Unemployment
+185,Basti,Unemployment
+186,Sant Kabir Nagar,Unemployment
+187,Mahrajganj,Unemployment
+188,Gorakhpur,Unemployment
+189,Kushinagar,Unemployment
+190,Deoria,Unemployment
+191,Azamgarh,Unemployment
+192,Mau,Unemployment
+193,Ballia,Unemployment
+194,Jaunpur,Unemployment
+195,Ghazipur,Unemployment
+196,Chandauli,Unemployment
+197,Varanasi,Non Agri
+198,Sant Ravidas Nagar Bhadohi,Unemployment
+199,Mirzapur,Unemployment
+200,Sonbhadra,Unemployment
+201,Etah,Unemployment
+203,Pashchim Champaran,Unemployment
+204,Purba Champaran,Unemployment
+205,Sheohar,Unemployment
+206,Sitamarhi,Unemployment
+207,Madhubani,Unemployment
+208,Supaul,Unemployment
+209,Araria,Agricultural
+210,Kishanganj,Unemployment
+211,Purnia,Unemployment
+212,Katihar,Unemployment
+213,Madhepura,Agricultural
+214,Saharsa,Unemployment
+215,Darbhanga,Unemployment
+216,Muzaffarpur,Unemployment
+217,Gopalganj,Unemployment
+218,Siwan,Unemployment
+219,Saran,Unemployment
+220,Vaishali,Unemployment
+221,Samastipur,Unemployment
+222,Begusarai,Unemployment
+223,Khagaria,Unemployment
+224,Bhagalpur,Unemployment
+225,Banka,Unemployment
+226,Munger,Unemployment
+227,Lakhisarai,Unemployment
+228,Sheikhpura,Unemployment
+229,Nalanda,Unemployment
+230,Patna,Unemployment
+231,Bhojpur,Unemployment
+232,Buxar,Unemployment
+233,Kaimur (Bhabua),Unemployment
+234,Rohtas,Unemployment
+235,Aurangabad,Unemployment
+236,Gaya,Unemployment
+237,Nawada,Unemployment
+238,Jamui,Unemployment
+239,Jehanabad ,Unemployment
+241,North ,Non Agri
+242,West,Agricultural
+243,South,Agricultural
+244,East,Non Agri
+245,Tawang,Non Agri
+246,West Kameng,Non Agri
+247,East Kameng,Agricultural
+248,Papum Pare,Non Agri
+249,Upper Subansiri,Agricultural
+250,West Siang,Agricultural
+251,East Siang,Unemployment
+252,Upper Siang,Agricultural
+253,Changlang,Agricultural
+254,Tirap,Agricultural
+255,Lower Subansiri,Unemployment
+257,Dibang Valley,Agricultural
+259,Lohit,Agricultural
+261,Mon,Agricultural
+262,Mokokchung,Agricultural
+263,Zunheboto,Agricultural
+264,Wokha,Agricultural
+265,Dimapur,Non Agri
+266,Phek,Agricultural
+267,Tuensang,Agricultural
+270,Kohima,Agricultural
+272,Senapati (Excluding 3 Sub-Divisions),Agricultural
+273,Tamenglong,Agricultural
+274,Churachandpur,Agricultural
+275,Bishnupur,Non Agri
+276,Thoubal,Agricultural
+277,Imphal West,Non Agri
+278,Imphal East,Non Agri
+279,Ukhrul,Agricultural
+280,Chandel,Agricultural
+281,Mamit,Agricultural
+282,Kolasib,Agricultural
+283,Aizawl,Non Agri
+284,Champhai,Agricultural
+285,Serchhip,Agricultural
+286,Lunglei,Agricultural
+287,Lawngtlai,Agricultural
+288,Saiha,Unemployment
+289,West Tripura ,Non Agri
+290,South Tripura ,Unemployment
+291,Dhalai,Unemployment
+292,North Tripura ,Unemployment
+293,West Garo Hills,Unemployment
+294,East Garo Hills,Agricultural
+295,South Garo Hills,Unemployment
+296,West Khasi Hills,Agricultural
+297,Ri Bhoi,Agricultural
+298,East Khasi Hills,Non Agri
+299,Jaintia Hills,Agricultural
+300,Kokrajhar,Unemployment
+301,Dhubri,Unemployment
+302,Goalpara,Unemployment
+303,Barpeta,Unemployment
+304,Marigaon,Unemployment
+305,Nagaon,Unemployment
+306,Sonitpur,Unemployment
+307,Lakhimpur,Unemployment
+308,Dhemaji,Agricultural
+309,Tinsukia,Non Agri
+310,Dibrugarh,Non Agri
+311,Sibsagar,Non Agri
+312,Jorhat,Non Agri
+313,Golaghat,Unemployment
+314,Karbi Anglong,Unemployment
+315,North Cachar Hills,Unemployment
+316,Cachar,Non Agri
+317,Karimganj,Unemployment
+318,Hailakandi,Unemployment
+319,Bongaigaon,Unemployment
+321,Kamrup,Non Agri
+323,Nalbari,Unemployment
+325,Darrang,Unemployment
+327,Darjiling ,Non Agri
+328,Jalpaiguri ,Non Agri
+329,Koch Bihar ,Unemployment
+330,Uttar Dinajpur,Unemployment
+331,Dakshin Dinajpur,Unemployment
+332,Maldah ,Unemployment
+333,Murshidabad ,Unemployment
+334,Birbhum,Unemployment
+335,Barddhaman ,Unemployment
+336,Nadia ,Unemployment
+337,North Twenty Four Parganas,Non Agri
+338,Hugli ,Non Agri
+339,Bankura ,Unemployment
+340,Puruliya,Unemployment
+341,Haora ,Non Agri
+342,Kolkata,Non Agri
+343,South  Twenty Four Parganas,Non Agri
+344,Medinipur ,Unemployment
+346,Garhwa,Unemployment
+347,Chatra,Unemployment
+348,Kodarma,Unemployment
+349,Giridih,Unemployment
+350,Deoghar,Unemployment
+351,Godda,Unemployment
+352,Sahibganj,Agricultural
+353,Pakaur,Agricultural
+354,Dhanbad,Non Agri
+355,Bokaro,Non Agri
+356,Lohardaga,Agricultural
+357,Purbi Singhbhum,Non Agri
+358,Palamu,Unemployment
+360,Hazaribagh,Unemployment
+362,Dumka,Unemployment
+364,Ranchi,Unemployment
+366,Gumla,Agricultural
+368,Pashchimi Singhbhum,Unemployment
+370,Bargarh,Agricultural
+371,Jharsuguda,Non Agri
+372,Sambalpur,Agricultural
+373,Debagarh,Agricultural
+374,Sundargarh,Unemployment
+375,Kendujhar,Unemployment
+376,Mayurbhanj,Agricultural
+377,Baleshwar,Unemployment
+378,Bhadrak,Unemployment
+379,Kendrapara,Unemployment
+380,Jagatsinghapur,Unemployment
+381,Cuttack,Unemployment
+382,Jajapur,Unemployment
+383,Dhenkanal,Unemployment
+384,Anugul,Unemployment
+385,Nayagarh,Unemployment
+386,Khordha,Non Agri
+387,Puri,Unemployment
+388,Ganjam,Unemployment
+389,Gajapati,Agricultural
+390,Kandhamal,Agricultural
+391,Baudh,Agricultural
+392,Sonapur,Agricultural
+393,Balangir,Unemployment
+394,Nuapada,Agricultural
+395,Kalahandi,Agricultural
+396,Rayagada,Agricultural
+397,Nabarangapur,Agricultural
+398,Koraput,Agricultural
+399,Malkangiri,Agricultural
+400,Koriya,Agricultural
+401,Surguja,Agricultural
+402,Jashpur,Agricultural
+403,Raigarh,Agricultural
+404,Korba,Unemployment
+405,Janjgir - Champa,Agricultural
+406,Bilaspur,Agricultural
+407,Kawardha,Agricultural
+408,Rajnandgaon,Agricultural
+409,Durg,Agricultural
+410,Raipur,Unemployment
+411,Mahasamund,Agricultural
+412,Dhamtari,Agricultural
+413,Kanker,Agricultural
+414,Bastar,Agricultural
+416,Dantewada,Agricultural
+418,Sheopur,Agricultural
+419,Morena,Unemployment
+420,Bhind,Unemployment
+421,Gwalior,Non Agri
+422,Datia,Agricultural
+423,Shivpuri,Agricultural
+424,Tikamgarh,Agricultural
+425,Chhatarpur,Agricultural
+426,Panna,Agricultural
+427,Sagar,Agricultural
+428,Damoh,Agricultural
+429,Satna,Unemployment
+430,Rewa,Unemployment
+431,Umaria,Unemployment
+432,Neemuch,Agricultural
+433,Mandsaur,Agricultural
+434,Ratlam,Agricultural
+435,Ujjain,Agricultural
+436,Shajapur,Agricultural
+437,Dewas,Agricultural
+438,Dhar,Agricultural
+439,Indore,Non Agri
+440,West Nimar,Agricultural
+441,Barwani,Agricultural
+442,Rajgarh,Agricultural
+443,Vidisha,Unemployment
+444,Bhopal,Non Agri
+445,Sehore,Agricultural
+446,Raisen,Unemployment
+447,Betul,Agricultural
+448,Harda,Unemployment
+449,Hoshangabad,Unemployment
+450,Katni,Unemployment
+451,Jabalpur,Non Agri
+452,Narsimhapur,Agricultural
+453,Dindori,Agricultural
+454,Mandla,Agricultural
+455,Chhindwara,Agricultural
+456,Seoni,Agricultural
+457,Balaghat,Agricultural
+458,Guna,Agricultural
+460,Shahdol,Agricultural
+462,Sidhi,Agricultural
+464,Jhabua,Agricultural
+466,East Nimar,Agricultural
+468,Kachchh,Non Agri
+469,Banas Kantha,Agricultural
+470,Patan,Agricultural
+471,Mahesana,Unemployment
+472,Sabar Kantha,Agricultural
+473,Gandhinagar,Agricultural
+474,Ahmadabad,Non Agri
+475,Surendranagar,Unemployment
+476,Rajkot,Non Agri
+477,Jamnagar,Unemployment
+478,Porbandar,Unemployment
+479,Junagadh,Unemployment
+480,Amreli,Agricultural
+481,Bhavnagar,Non Agri
+482,Anand,Unemployment
+483,Kheda,Unemployment
+484,Panch Mahals,Agricultural
+485,Dohad,Agricultural
+486,Vadodara,Unemployment
+487,Narmada,Agricultural
+488,Bharuch,Unemployment
+489,The Dangs,Agricultural
+490,Navsari,Agricultural
+491,Valsad,Non Agri
+492,Surat,Non Agri
+494,Diu,Non Agri
+495,Daman,Non Agri
+496,Dadra & Nagar Haveli,Non Agri
+497,Nandurbar,Agricultural
+498,Dhule,Agricultural
+499,Jalgaon,Agricultural
+500,Buldana,Agricultural
+501,Akola,Agricultural
+502,Washim,Agricultural
+503,Amravati,Agricultural
+504,Wardha,Agricultural
+505,Nagpur,Non Agri
+506,Bhandara,Agricultural
+507,Gondiya,Agricultural
+508,Gadchiroli,Agricultural
+509,Chandrapur,Agricultural
+510,Yavatmal,Agricultural
+511,Nanded,Agricultural
+512,Hingoli,Agricultural
+513,Parbhani,Agricultural
+514,Jalna,Agricultural
+515,Aurangabad,Agricultural
+516,Thane,Non Agri
+517,Thane,Non Agri
+518,Mumbai (Suburban),Non Agri
+519,Mumbai,Non Agri
+520,Raigarh,Non Agri
+521,Pune,Non Agri
+522,Ahmadnagar,Agricultural
+523,Bid,Agricultural
+524,Latur,Agricultural
+525,Osmanabad,Agricultural
+526,Solapur,Agricultural
+527,Satara,Agricultural
+528,Ratnagiri,Agricultural
+529,Sindhudurg,Unemployment
+530,Kolhapur,Agricultural
+531,Sangli,Agricultural
+532,Adilabad,Agricultural
+533,Nizamabad,Agricultural
+534,Karimnagar,Agricultural
+535,Medak,Agricultural
+536,Hyderabad,Non Agri
+537,Rangareddi,Non Agri
+538,Mahbubnagar,Agricultural
+539,Nalgonda,Agricultural
+540,Warangal,Agricultural
+541,Khammam,Agricultural
+542,Srikakulam,Agricultural
+543,Vizianagaram,Agricultural
+544,Visakhapatnam,Unemployment
+545,East Godavari,Unemployment
+546,West Godavari,Agricultural
+547,Krishna,Agricultural
+548,Guntur,Agricultural
+549,Prakasam,Agricultural
+550,Nellore,Agricultural
+551,Cuddapah,Agricultural
+552,Kurnool,Agricultural
+553,Anantapur,Agricultural
+554,Chittoor,Agricultural
+555,Belgaum,Agricultural
+556,Bagalkot,Agricultural
+557,Bijapur,Agricultural
+558,Bidar,Unemployment
+559,Raichur,Agricultural
+560,Koppal ,Agricultural
+561,Gadag,Agricultural
+562,Dharwad,Unemployment
+563,Uttara Kannada,Non Agri
+564,Haveri,Agricultural
+565,Bellary,Agricultural
+566,Chitradurga,Agricultural
+567,Davanagere ,Agricultural
+568,Shimoga,Agricultural
+569,Udupi,Non Agri
+570,Chikmagalur,Agricultural
+571,Tumkur,Agricultural
+572,Bangalore,Non Agri
+573,Mandya,Agricultural
+574,Hassan,Agricultural
+575,Dakshina Kannada,Non Agri
+576,Kodagu,Non Agri
+577,Mysore,Unemployment
+578,Chamarajanagar,Agricultural
+579,Gulbarga,Agricultural
+581,Kolar,Agricultural
+583,Bangalore Rural,Agricultural
+585,North Goa ,Non Agri
+586,South Goa,Non Agri
+587,Lakshadweep,Non Agri
+588,Kasaragod,Non Agri
+589,Kannur,Non Agri
+590,Wayanad,Unemployment
+591,Kozhikode,Non Agri
+592,Malappuram,Non Agri
+593,Palakkad,Non Agri
+594,Thrissur,Non Agri
+595,Ernakulam,Non Agri
+596,Idukki,Agricultural
+597,Kottayam,Non Agri
+598,Alappuzha,Non Agri
+599,Pathanamthitta,Non Agri
+600,Kollam,Non Agri
+601,Thiruvananthapuram,Non Agri
+602,Thiruvallur,Non Agri
+603,Chennai,Non Agri
+604,Kancheepuram,Non Agri
+605,Vellore,Non Agri
+606,Tiruvannamalai,Agricultural
+607,Viluppuram,Agricultural
+608,Salem,Non Agri
+609,Namakkal,Agricultural
+610,Erode,Agricultural
+611,The Nilgiris,Non Agri
+612,Dindigul,Agricultural
+613,Karur,Agricultural
+614,Tiruchirappalli,Non Agri
+615,Perambalur,Agricultural
+616,Ariyalur,Agricultural
+617,Cuddalore,Unemployment
+618,Nagapattinam,Unemployment
+619,Thiruvarur,Unemployment
+620,Thanjavur,Unemployment
+621,Pudukkottai,Agricultural
+622,Sivaganga,Agricultural
+623,Madurai,Non Agri
+624,Theni,Agricultural
+625,Virudhunagar,Non Agri
+626,Ramanathapuram,Agricultural
+627,Thoothukkudi,Non Agri
+628,Tirunelveli ,Non Agri
+629,Kanniyakumari,Non Agri
+630,Dharmapuri,Agricultural
+632,Coimbatore,Non Agri
+634,Yanam,Non Agri
+635,Pondicherry,Non Agri
+636,Mahe,Non Agri
+637,Karaikal,Non Agri
+638,Nicobars,Non Agri
+639,Andamans,Non Agri
